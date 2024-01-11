@@ -73,7 +73,7 @@
     <a href="https://spectacular-tarsier-83ce9c.netlify.app/">Results-Summary-Component-Main(#frontendMentorChallenge)</a>
   </li>
   <li>   
-    <a href="hhttps://earnest-moonbeam-c7c4a8.netlify.app/">Bookmark-Landing-Page-Master(#frontendMentorChallenge)</a>
+    <a href="https://earnest-moonbeam-c7c4a8.netlify.app/">Bookmark-Landing-Page-Master(#frontendMentorChallenge)</a>
   </li>
 
   
