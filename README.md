@@ -65,9 +65,9 @@
 
 <h3>#Some Small Apps</h3>
 <a href="https://keen-liger-e5a027.netlify.app/">Advice App(#frontendMentorChallenge)</a>
-<p>Build using Html, Css, JavaScript and API.
-Data is not stored in any file inside the app is fetching data life from the server using api.
-API link: 	https://api.adviceslip.com/advice.
+<p>Build using Html, Css, JavaScript and API. \n
+Data is not stored in any file inside the app is fetching data life from the server using api. \n
+API link: 	https://api.adviceslip.com/advice.\n
 Simple And Authentice user interface 
 
 </p>
