@@ -57,6 +57,24 @@
   <li>   
     <a href="https://keen-liger-e5a027.netlify.app/">Advice App(#frontendMentorChallenge)</a>
   </li>
+  <li>   
+    <a href="https://eloquent-lamington-7d9e98.netlify.app/">FlexBox Rating Components(#frontendMentorChallenge)</a>
+  </li>
+  <li>   
+    <a href="https://magnificent-speculoos-414295.netlify.app/">Fylo-Dark-Theme-Landing-Page-Master(#frontendMentorChallenge)</a>
+  </li>
+  <li>   
+    <a href="https://calm-jelly-a6c2af.netlify.app/">Sunnyside-Agency-Landing-Page-Main(#frontendMentorChallenge)</a>
+  </li>
+  <li>   
+    <a href="https://comforting-kashata-e6d166.netlify.app/">Easybank-Landing-Page-Master(#frontendMentorChallenge)</a>
+  </li>
+  <li>   
+    <a href="https://spectacular-tarsier-83ce9c.netlify.app/">Results-Summary-Component-Main(#frontendMentorChallenge)</a>
+  </li>
+  <li>   
+    <a href="hhttps://earnest-moonbeam-c7c4a8.netlify.app/">Bookmark-Landing-Page-Master(#frontendMentorChallenge)</a>
+  </li>
 
   
 </ul>
@@ -75,16 +93,21 @@
 <h2>#React Apps </h2>
 <h3>Keeper App (Clone of Google Keep App)</h3>
 <a href="https://keeper-react-appp.netlify.app/">Keeper App</a>
-<p>Build using React, Css, Jsx</p>
-<p>Able to perform CRUD operations.</p>
-<a href="https://keeper-react-appp.netlify.app/">Keeper App</a>
+<p>Build using React, Css, Jsx.<br> I used browser's localStorage to store notes. <br> User can perform all the CRUD operation on the notes.<br> It has simple and user friendly interface </p>
+ 
+ 
 
 <h3>Life Lessions App</h3>
 <a href="https://chimerical-chebakia-13ab18.netlify.app/">Life Lessions (It will give you a Advice/tip) </a>
-<p>This app is build using React. It will give you a life lession or advice everytime you request <br> I used Api to fetch Advice. <br> App has simple interface with animated button. </p>
+<p>This app is build using React. <br>It will give you a life lession or advice everytime you request <br> I used Api to fetch Advice. <br> App has simple interface with animated button. </p>
 
 
 <br>
 <h3>#Some Other Projects</h3>
 <h5>#Html Canvas Project using Javascript, HTML Canvas, Css</h5>
 <a href="https://bouncing-ball-using-javascript.netlify.app/">Bouncing Ball</a>
+
+<h3>Portfolio WebSite</h3>
+<a href="https://shimmering-maamoul-13c3bd.netlify.app/">A Asesome Portfolio Website</a>
+<p>This Website is build using HTML , CSS, Javascript. <br> I have used some tricky and complex css properties to make website's frontpage(intro section) I takes me more than a day.</p>
+
