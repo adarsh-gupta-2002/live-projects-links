@@ -65,18 +65,24 @@
 
 <h3>#Some Small Apps</h3>
 <a href="https://keen-liger-e5a027.netlify.app/">Advice App(#frontendMentorChallenge)</a>
-<p>Build using Html, Css, JavaScript and API. \n
-Data is not stored in any file inside the app is fetching data life from the server using api. \n
-API link: 	https://api.adviceslip.com/advice.\n
-Simple And Authentice user interface 
-
-</p>
+<p>Build using Html, Css, JavaScript and API. </p>
+<p>Data is not stored in any file inside the app is fetching data life from the server using api.</p>
+<p>API link: 	https://api.adviceslip.com/advice.</p>
+<p>Simple And Authentice user interface </p>
 
 
-<h3>#React Keeper App (Clone of Google Keep App)</h3>
+
+<h2>#React Apps </h2>
+<h3>Keeper App (Clone of Google Keep App)</h3>
 <a href="https://keeper-react-appp.netlify.app/">Keeper App</a>
 <p>Build using React, Css, Jsx</p>
 <p>Able to perform CRUD operations.</p>
+<a href="https://keeper-react-appp.netlify.app/">Keeper App</a>
+
+<h3>Life Lessions App</h3>
+<a href="https://chimerical-chebakia-13ab18.netlify.app/">Life Lessions (It will give you a Advice/tip) </a>
+<p>This app is build using React. It will give you a life lession or advice everytime you request <br> I used Api to fetch Advice. <br> App has simple interface with animated button. </p>
+
 
 <br>
 <h3>#Some Other Projects</h3>
